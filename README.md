@@ -1,5 +1,6 @@
 # livecodeLottery
-Old Monopoly program I made in school
+Old Monopoly program I made in school.
+Make sure you have LiveCode installed to run.
 
 .txt files must be stored in a file called .monopoly on /Desktop/ (unless this is altered and depending on OS)
 
